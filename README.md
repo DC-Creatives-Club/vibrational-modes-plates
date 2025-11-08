@@ -11,7 +11,7 @@ This project simulates **Chladni figures** (the vibrational modes of plates and 
 Clone the repository:
 
 ```sh
-git clone https://github.com/jacksonwalters/vibrational-modes-plates.git
+git clone https://github.com/DC-Creatives-Club/vibrational-modes-plates.git
 ```
 
 Create and activate a Python virtual environment called `math`:
